@@ -14,6 +14,8 @@ El sitio incluye:
 - **Sección de Productos y Servicios**: Grilla interactiva que recorre un array de datos con `.map()`, mostrando tarjetas con badges condicionales de "Destacado" y eventos de consulta.
 - **Footer**: Pie de página semántico con información de contacto y derechos reservados.
 
+[Link netlify](https://landing-stich.netlify.app/)
+
 ---
 
 ## 🛠️ 2. Cómo correrlo
